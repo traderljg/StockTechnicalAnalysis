@@ -1,2 +1,2 @@
 # StockTechnicalAnalysis
-Analysis of returns of different strategies over a wide range of stock data
+Analysis of returns of different trading strategies over a wide range of stock data in both R and Python
